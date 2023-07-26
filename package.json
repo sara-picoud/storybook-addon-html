@@ -71,7 +71,8 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.9.4",
     "webpack": "^5.83.1",
-    "zx": "^1.15.2"
+    "zx": "^1.15.2",
+    "@uiw/react-codemirror": "^4.21.8"
   },
   "peerDependencies": {
     "@storybook/addons": "^6.5.8 || ^7.0.12",
